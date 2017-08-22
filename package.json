@@ -13,9 +13,9 @@
     }
   ],
   "dependencies": {
-    "mapnik": "~3.4.1",
-    "sphericalmercator": "1.0.x",
-    "mapnik-pool": "0.1.x"
+    "mapnik": "git+ssh://git@github.com:Algunenano/node-mapnik.git#performance_stats",
+    "mapnik-pool": "^0.1.3",
+    "sphericalmercator": "1.0.x"
   },
   "devDependencies": {
     "queue-async": "1.0.7",
