@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "@mapbox/sphericalmercator": "~1.0.1",
-    "@carto/mapnik": "3.6.2-carto.8",
+    "@carto/mapnik": "github:Algunenano/node-mapnik#cache_move",
     "mapnik-pool": "~0.1.3"
   },
   "devDependencies": {
